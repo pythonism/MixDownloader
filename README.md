@@ -9,8 +9,8 @@ Simple script to download video from Mix.Tj <br>
 ## On windows
 <code> downloader.py LINK_TO_VIDEO_ON_MIX_TJ </code>
 
-## How get help?
+## How I can get help?
 <code> ./downloader.py --help </code>
 
-## How install requirments
+## How install requirments ?
 <code> pip install -r requirments.txt </code>
