@@ -1,5 +1,5 @@
 # MixDownloader
-Simple script to download video from Mix.Tj <br>
+A simple Script to download video from Mix.Tj <br>
 
 # How use ?
 ## On linux
@@ -15,5 +15,5 @@ Simple script to download video from Mix.Tj <br>
 ## How install requirments ?
 <code> pip install -r requirments.txt </code>
 
-## Screenshot
+## Screenshot 
 <img src=screenshot.png>
