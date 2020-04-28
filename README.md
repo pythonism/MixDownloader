@@ -14,3 +14,6 @@ Simple script to download video from Mix.Tj <br>
 
 ## How install requirments ?
 <code> pip install -r requirments.txt </code>
+
+## Screenshot
+<img src=screenshot.png>
